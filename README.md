@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Hugo</h1>
-<h3 align="center">🎯 Sou formado em anáise e desenvolvimento de sistema, atualmente estou em transição de carreira para a área de **Dados** 🎓 Estudante dedicado,focado em desenvolver habilidades em análise e manipulação de dados</h3>
+<h3 align="center">🎯 Sou formado em análise e desenvolvimento de sistema, atualmente estou em transição de carreira para a área de **Dados** 🎓 Estudante dedicado,focado em desenvolver habilidades em análise e manipulação de dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugo199115&label=Profile%20views&color=0e75b6&style=flat" alt="hugo199115" /> </p>
 
